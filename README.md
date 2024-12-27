@@ -1,5 +1,3 @@
-![5481e13-3da0-b8e5-f87f-a5ff1b6da72c_eyeSight_-_Driver_Monitoring_Driver_Asleep_1](https://github.com/user-attachments/assets/27a20d12-5c9d-4c16-a38e-a335f64f97e8)# Drowsiness Detection
-
 ## Overview
 Drowsiness Detection is a project designed to enhance safety by identifying signs of drowsiness in individuals, such as drivers. The system leverages computer vision and machine learning to detect drowsiness in real-time and alert the user before accidents occur. This application can significantly contribute to reducing incidents caused by fatigue-related impairment.
 
